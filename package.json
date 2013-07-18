@@ -1,0 +1,17 @@
+{
+  "name": "readywhen",
+  "version": "0.0.0",
+  "description": "create deferred methods based on the ready state of the parent object",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/rt2zz/readywhen.git"
+  },
+  "author": "rt2zz",
+  "license": "BSD",
+  "readmeFilename": "README.md",
+  "gitHead": "d4bbaaf32e08684a4eeade9056b9dce4b1610eec"
+}
