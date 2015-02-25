@@ -1,6 +1,6 @@
 {
   "name": "readywhen",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "create deferred methods based on the ready state of the parent object",
   "main": "index.js",
   "scripts": {
